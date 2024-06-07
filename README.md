@@ -38,7 +38,7 @@ This project is a RESTful API server built with Node.js, Express, and Prisma for
     Create a `.env` file in the root directory:
 
     ```env
-    DATABASE_URL=postgresql://username:password@localhost:5432/your-database
+    DATABASE_URL=mysql://username:password@localhost:5432/your-database
     JWT_SECRET=your_jwt_secret
     REFRESH_TOKEN_SECRET=your_refresh_token_secret
     ```
