@@ -16,7 +16,7 @@ This project is a RESTful API server built with Node.js, Express, and Prisma for
 - Prisma
 - JWT
 - Multer
-- PostgreSQL
+- MySql
 
 ## Installation
 
